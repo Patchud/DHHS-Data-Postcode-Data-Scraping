@@ -14,4 +14,4 @@ The JSON will follow this format
         'ratedisp': 16,\
         'population': 15246\
   }\
-}\
+}
