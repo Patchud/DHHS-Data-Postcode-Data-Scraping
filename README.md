@@ -6,14 +6,14 @@ This program returns an aggregate of the postcode data printed to screen as a JS
 The JSON will follow this format
 
 <pre>
-{\
-  id: {\
-        'postcode': 3975,\
-        '_new': 1,\
-        'activedisp': 'Five or fewer active cases',\
-        'cases': 37,\
-        'ratedisp': 16,\
-        'population': 15246\
-  }\
+{
+  id: {
+        'postcode': 3975,
+        '_new': 1,
+        'activedisp': 'Five or fewer active cases',
+        'cases': 37,
+        'ratedisp': 16,
+        'population': 15246
+  }
 }
 </pre>
