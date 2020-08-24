@@ -1,2 +1,2 @@
 # DHHS-Data-Postcode-Data-Scraping
-Postcode Data scraping from the Victorian Governments DHHS.
+Scrapes the data from the DHHH's website using JSON API calls.
