@@ -6,7 +6,7 @@ baseURL = "https://cartocdn-gusc-c.global.ssl.fastly.net/dhhs/api/v1/map/dhhs@fc
 initialValue = 1
 
 start = 1
-end = 10
+end = 1000
 aggregate = {}
 
 
@@ -15,4 +15,4 @@ for x in range (start, end):
   if (r.status_code == 200):
     aggregate[x] = json.loads(r.text)
 
-print(aggregate)
+print(json.dumps(aggregate))
