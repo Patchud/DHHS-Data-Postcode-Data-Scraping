@@ -5,6 +5,7 @@ This program returns an aggregate of the postcode data printed to screen as a JS
 
 The JSON will follow this format
 
+<pre>
 {\
   id: {\
         'postcode': 3975,\
@@ -15,3 +16,4 @@ The JSON will follow this format
         'population': 15246\
   }\
 }
+</pre>
