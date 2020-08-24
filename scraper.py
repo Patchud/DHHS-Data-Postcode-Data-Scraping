@@ -6,7 +6,7 @@ baseURL = "https://cartocdn-gusc-c.global.ssl.fastly.net/dhhs/api/v1/map/dhhs@fc
 initialValue = 1
 
 start = 1
-end = 1000
+end = 698
 aggregate = {}
 
 
